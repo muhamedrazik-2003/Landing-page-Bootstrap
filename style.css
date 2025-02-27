@@ -15,14 +15,14 @@
     filter: blur(4px);
 }
 #service {
-    height: 35vh;
+    height: 80vh;
     background: url(./images/section\ bg.jpg);
     background-size: cover;
     /* background-position:center; */
 
 }
-#service {
-    height: 35vh;
+#contact {
+    /* height: 35vh; */
     background: url(./images/contact\ bg\ image.jpg);
     background-size:contain;
     /* background-position:center; */
