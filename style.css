@@ -3,9 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.nav-item {
-    border: 1px solid white;
-}
+
 .nav-item:hover {
     background-color: rgba(255, 255, 255, 0.2);
 }
@@ -21,8 +19,12 @@
 }
 .home-content {
     position: absolute;
-    top: 41%;
-    left: 41%;
+    top: 37%;
+    left: 38%;
     
    
+}
+.card {
+    width: 19rem;
+
 }
