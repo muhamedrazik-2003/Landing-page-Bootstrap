@@ -34,7 +34,7 @@
 .home-content {
     position: absolute;
     top: 37%;
-    left: 38%;
+    left: 0;
 }
 .form-content input, .form-content textarea, .form-text {
     background-color:rgba(255, 255, 255, 0.3);
