@@ -9,23 +9,23 @@
 }
 #home {
     height: 80vh;
-    background: url(./images/home.jpg);
+    background: url(./images/home\ image.jpg);
     background-size: cover;
-    background-position:center;
-    filter: blur(4px);
+    background-position:bottom;
+    /* filter: blur(1px); */
 }
 #service {
-    height: 80vh;
-    background: url(./images/section\ bg.jpg);
+    height: 40vh;
+    background: url(./images/service\ image.jpg);
     background-size: cover;
-    /* background-position:center; */
+    background-position: bottom;
 
 }
 #contact {
-    /* height: 35vh; */
-    background: url(./images/contact\ bg\ image.jpg);
-    background-size:contain;
-    /* background-position:center; */
+    height: 80vh;
+    background: url(./images/contact\ image.jpg);
+    background-size:cover;
+    background-position:center;
 
 }
 .home-section {
