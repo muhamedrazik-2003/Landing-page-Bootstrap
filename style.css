@@ -8,21 +8,22 @@
     background-color: rgba(255, 255, 255, 0.2);
 }
 #home {
-    height: 80vh;
+    min-height: 80vh;
     background: url(./images/home\ image.jpg);
     background-size: cover;
     background-position:bottom;
-    /* filter: blur(1px); */
+    filter: blur(4px);
+   
 }
 #service {
-    height: 40vh;
+    min-height: 40vh;
     background: url(./images/service\ image.jpg);
     background-size: cover;
     background-position: bottom;
 
 }
 #contact {
-    height: 80vh;
+    min-height: 80vh;
     background: url(./images/contact\ image.jpg);
     background-size:cover;
     background-position:center;
